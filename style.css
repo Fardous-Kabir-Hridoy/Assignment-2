@@ -564,3 +564,8 @@ iframe {
    margin: auto;
   
 }
+@media screen and (max-width:576px) {
+    .footer-tex{
+        padding-top: 0px;
+    }
+}
